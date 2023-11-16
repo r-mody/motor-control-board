@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+Motor Shield.kicad_prl
+M-Control-Shield/M-Control-Shield-backups/*
+Motor Shield-backups/*
